@@ -1,2 +1,2 @@
-# SQL
-SQL portfolio
+Welcome to my SQL portfolio! 
+
